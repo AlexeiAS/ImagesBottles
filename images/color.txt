@@ -1,0 +1,5 @@
+bottle1,0
+bottle2,1
+bottle3,0
+bottle4,0
+bottle5,1
